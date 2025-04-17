@@ -1,5 +1,7 @@
-venv312
-site_5cproject/mysqldb.conf
+venv312/
+site_5cproject/mysqldb.cnf
+site_5cproject/site_5cproject/settings.py
+
 
 
 # Django #
