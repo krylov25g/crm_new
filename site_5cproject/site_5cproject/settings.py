@@ -95,12 +95,12 @@ DATABASES = {
         #     "read_default_file": "./mysqldb.cnf",
         # },
 
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'j02971376_crmtest_django',
-        'USER': 'root',
-        'PASSWORD': '',
-        'HOST': '127.127.126.26',
-        'PORT':'3306',
+        # 'ENGINE': 'django.db.backends.mysql',
+        # 'NAME': 'DATABASE_NAME',
+        # 'USER': 'USERNAME',
+        # 'PASSWORD': '',
+        # 'HOST': '0.0.0.0',
+        # 'PORT':'3306',
     }
 }
 

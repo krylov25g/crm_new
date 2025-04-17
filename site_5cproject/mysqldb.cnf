@@ -1,5 +1,5 @@
 [client]
-host=127.127.126.26
-database=j02971376_crmtest_django
-user=root
-password=
+host=host
+database=database_name
+user=username
+password=password
